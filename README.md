@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm abderrahim</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A full stack web developer</h3>
 🔭 I’m currently working on : moon store<br>🌱 I’m currently learning : React js, Abgular js, express js, laravel ...<br>💬 Ask me about : express js, laravel, javascript<br>📫 How to reach me : zx.dev7@gmail.com<br>👨‍💻 All of my projects are available at : https://abderrahim-webdev7.github.io/web_dev_dzx7_portfolio/<br>
 
 
